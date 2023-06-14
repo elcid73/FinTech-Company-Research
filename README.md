@@ -1,1 +1,0 @@
-# FinTech-Company-Research
