@@ -44,6 +44,7 @@ Upstart Holdings are one of the first companies to use AI solutions in evaluatin
 ## Landscape
 
 * What domain of the financial industry is the company in?
+
 Personal lending
 
 * What have been the major trends and innovations of this domain over the last 5–10 years?
@@ -91,7 +92,9 @@ Start developing credit evaluation models for mortgages and corporate loans as w
 It will help Upstart expand its offering portfolio and generate additional revenue streams from other lucrative sources while it is struggling in personal loan space.
 
 * What technologies would this additional product or service utilize?
+
 They should continue to use AI as a main technology, while adjusting the variables used to the most applicable in corporate lending and venture capital areas.
 
 * Why are these technologies appropriate for your solution?
+
 AI and machine learning are very powerful tools and should serve Upstart well if it attempts to move into mortgages, corporate loans and venture capital.  It was one of the first to use AI for personal loans risk assessment and can do the same for other types of loans.
