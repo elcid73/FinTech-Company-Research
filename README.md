@@ -1,5 +1,5 @@
 # FinTech-Company-Research
-Upstart Holdings
+Upstart Holdings Company Overview
 ## Overview and Origin
 * What is the name of the company?
 
@@ -11,7 +11,7 @@ Upstart was incorporated in April 2012
 
 * Who are the founders of the company?
 
-The founders were Dave Girouard, former President of Enterprise Google, Paul Gu, a Thiel Fellow, and Anna Counselman, former Manager of Global Enterprise Customer Programs and Gmail Consumer Operations at Google.
+The founders were Dave Girouard, former President of Enterprise Google, Paul Gu, a Thiel Fellow, and Anna Counselman, former Manager of Global Enterprise Customer Programs and Gmail Consumer Operations at Google. 
 
 * How did the idea for the company (or project) come about?
 
@@ -19,7 +19,7 @@ The idea for the main Upstart product was based on combining predicting analytic
 
 * How is the company funded? How much funding have they received?
 
-Upstart raised a $1.75M seed round from First Round Capital, Kleiner Perkins Caufield & Byers, New Enterprise Associates, Google Ventures, Crunchfund and Mark Cuban. They subsequently raised a series A round of $5.9M which included new investors Eric Schmidt (Google Executive Chairman), Marc Benioff, Khosla Ventures, Correlation Ventures, Founders Fund, and Collaborative Fund.[2] Upstart raised a Series C round of $35M from Third Point Capital in June 2015,[5] and $32.5M from Rakuten in 2017.[6] Upstart raised a Series D round of $50M from The Progressive Corporation in 2019.
+Upstart raised a $1.75M seed round from First Round Capital, Kleiner Perkins Caufield & Byers, New Enterprise Associates, Google Ventures, Crunchfund and Mark Cuban. They subsequently raised a series A round of $5.9M which included new investors Eric Schmidt (Google Executive Chairman), Marc Benioff, Khosla Ventures, Correlation Ventures, Founders Fund, and Collaborative Fund. Upstart raised a Series C round of $35M from Third Point Capital in June 2015, and $32.5M from Rakuten in 2017. Upstart raised a Series D round of $50M from The Progressive Corporation in 2019.
 In late 2020, Upstart went public via an IPO.
 
 ## Business Activities
@@ -30,11 +30,11 @@ Upstart is trying to improve consumer loans’ risk and credit worthiness assess
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
-Customers are banks, credit unions, traditional finance companies and fintech lenders. Unsecured personal loan balances reached a record high of $222 billion in Q4 2022, which could serve as a proxy for overall market size.
+Customers are banks, credit unions, traditional finance companies and fintech lenders. Unsecured personal loan balances has been growing steadily over last several years and reached a record high of $222 billion in Q4 2022, which could serve as a proxy for overall market size.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
-Unlike traditional banks and credit unions, Upstart has developed a platform that uses artificial intelligence to analyze over 1,000 different variables about potential borrowers to come to lending decisions
+Unlike traditional banks and credit unions, Upstart has developed a platform that uses artificial intelligence to analyze over 1,000 different variables about potential borrowers to come to lending decisions.  The company claims that their approach produces better results than the models used by traditional lenders.
 
 * Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
 
@@ -48,7 +48,7 @@ Personal lending
 
 * What have been the major trends and innovations of this domain over the last 5–10 years?
 
-Personal lending has increased, and so has the number of FinTech companies that use AI and statistical models to assess risk and credit worthiness. There has also been a steady increase of new entrants into the lending industry due to the proliferation of fintech.
+Personal lending has increased dramatically, and so has the number of FinTech companies that use AI and statistical models to assess risk and credit worthiness. There has also been a steady increase of new entrants into the lending industry due to the proliferation of fintech.
 
 * What are the other major companies in this domain?
 
@@ -58,7 +58,7 @@ The main competitors of Upstart include ACI Worldwide (ACIW), Plexus (PLXS), Sme
 
 * What has been the business impact of this company so far?
 
-After the initial increase of Upstart stock price following its IPO in 2019, the stock has declined by almost 95%.  Upstart's sales and profitability have been on the decline, despite management claims that its platform is more accurate than traditional credit evaluation systems.
+After the initial increase of Upstart stock price following its IPO in 2020, the stock has declined by almost 95%.  Upstart's sales and profitability have been on the decline, despite management claims that its platform is more accurate than traditional credit evaluation systems.
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -77,7 +77,7 @@ Upstart has been underperforming across many of these KPIs as evidenced by decli
 
 * How is your company performing relative to competitors in the same domain?
 
-Given the fact that the size of the personal loan market has been steadily increasing, while Upstart sales and profit declined, shows that it’s been underperforming compared to its competitors.
+Given the fact that the size of the personal loan market has been steadily increasing, while Upstart sales and profit declined, when can conclude that it’s been underperforming compared to its competitors.
 
 
 ## Recommendations
